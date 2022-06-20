@@ -1,0 +1,21 @@
+# ninja log v5
+3	1061	6772441018023314	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	523dc3e63ca4f3f7
+3	1061	6772441018023314	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	523dc3e63ca4f3f7
+0	62842	6772442908044918	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	db43f60a79ccafd0
+0	62842	6772442908044918	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	db43f60a79ccafd0
+62843	63163	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8ece8dc4ef7d75f4
+62843	63163	0	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8ece8dc4ef7d75f4
+63163	63305	6772442912674981	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	8b7c91a97031050e
+63163	63305	6772442912674981	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	8b7c91a97031050e
+63305	63442	6772442914050163	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8362cc1772002de0
+63305	63442	6772442914050163	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8362cc1772002de0
+63442	63579	6772442915433881	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	21364687c2d6b5a3
+63442	63579	6772442915433881	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	21364687c2d6b5a3
+63580	63713	6772442916767696	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b2dad581f640c5f8
+63580	63713	6772442916767696	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b2dad581f640c5f8
+63714	63846	6772442918087496	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2f339fc6f65d0c14
+63714	63846	6772442918087496	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2f339fc6f65d0c14
+63846	64045	6772442920085581	CMakeFiles/sfml-populate-complete	47ed771e493b5639
+63846	64045	6772442920085581	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	47ed771e493b5639
+63846	64045	6772442920085581	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	47ed771e493b5639
+63846	64045	6772442920085581	C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	47ed771e493b5639

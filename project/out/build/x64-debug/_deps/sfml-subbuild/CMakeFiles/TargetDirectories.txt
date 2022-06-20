@@ -1,0 +1,3 @@
+C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
