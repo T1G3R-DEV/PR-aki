@@ -128,11 +128,11 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/include"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/src"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/src"
 				}
 			],
 			"language" : "CXX",
@@ -188,7 +188,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/install/x64-debug"
+			"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/install/x64-debug"
 		}
 	},
 	"name" : "sfml-window",

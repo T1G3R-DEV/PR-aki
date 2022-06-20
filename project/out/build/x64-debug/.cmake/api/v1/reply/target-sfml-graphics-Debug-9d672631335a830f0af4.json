@@ -136,19 +136,19 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/include"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/src"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/extlibs/headers/stb_image"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/extlibs/headers/stb_image"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/extlibs/headers/freetype2"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/extlibs/headers/freetype2"
 				}
 			],
 			"language" : "CXX",
@@ -192,11 +192,11 @@
 	[
 		{
 			"backtrace" : 4,
-			"id" : "sfml-system::@8cb1db2982443611e568"
+			"id" : "sfml-window::@5730451e331e3690ae65"
 		},
 		{
 			"backtrace" : 4,
-			"id" : "sfml-window::@5730451e331e3690ae65"
+			"id" : "sfml-system::@8cb1db2982443611e568"
 		}
 	],
 	"folder" : 
@@ -215,7 +215,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/install/x64-debug"
+			"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/install/x64-debug"
 		}
 	},
 	"name" : "sfml-graphics",

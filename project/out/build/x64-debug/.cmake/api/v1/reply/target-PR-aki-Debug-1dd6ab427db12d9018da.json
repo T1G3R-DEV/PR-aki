@@ -59,7 +59,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/include"
+					"path" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/include"
 				}
 			],
 			"language" : "CXX",
@@ -81,15 +81,15 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "sfml-system::@8cb1db2982443611e568"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "sfml-window::@5730451e331e3690ae65"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "sfml-system::@8cb1db2982443611e568"
 		}
 	],
 	"id" : "PR-aki::@6890427a1f51a3e7e1df",

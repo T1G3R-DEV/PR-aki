@@ -1,8 +1,8 @@
-# Install script for directory: C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-src/src/SFML
+# Install script for directory: C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-src/src/SFML
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,12 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/System/cmake_install.cmake")
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/Main/cmake_install.cmake")
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/Window/cmake_install.cmake")
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/Network/cmake_install.cmake")
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake")
-  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug/_deps/sfml-build/src/SFML/Audio/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/System/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/Main/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/Window/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/Network/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake")
+  include("C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug/_deps/sfml-build/src/SFML/Audio/cmake_install.cmake")
 
 endif()
 

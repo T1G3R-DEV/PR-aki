@@ -911,8 +911,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug",
-		"source" : "C:/daten_neu/daten_NC/00_projekte/PR-aki"
+		"build" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug",
+		"source" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project"
 	},
 	"version" : 
 	{

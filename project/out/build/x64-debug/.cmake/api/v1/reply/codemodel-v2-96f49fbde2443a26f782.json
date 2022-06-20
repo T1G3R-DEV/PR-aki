@@ -205,49 +205,49 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PR-aki::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PR-aki-Debug-3d9d2ac296c51d4867b1.json",
+					"jsonFile" : "target-PR-aki-Debug-1dd6ab427db12d9018da.json",
 					"name" : "PR-aki",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 8,
 					"id" : "sfml-audio::@a153e5727587c53fce98",
-					"jsonFile" : "target-sfml-audio-Debug-c833a35d7e253e8521b4.json",
+					"jsonFile" : "target-sfml-audio-Debug-ac5067c8551b5faf553e.json",
 					"name" : "sfml-audio",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 7,
 					"id" : "sfml-graphics::@98af38147d5fa7e70f61",
-					"jsonFile" : "target-sfml-graphics-Debug-4e9851b36dfd081dd1e8.json",
+					"jsonFile" : "target-sfml-graphics-Debug-9d672631335a830f0af4.json",
 					"name" : "sfml-graphics",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "sfml-main::@81ec5539f1398dd625f6",
-					"jsonFile" : "target-sfml-main-Debug-58f6ba38ab9ddee58ad8.json",
+					"jsonFile" : "target-sfml-main-Debug-9296b4c0a6fad82141e0.json",
 					"name" : "sfml-main",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "sfml-network::@d7f79968b2699e7782cb",
-					"jsonFile" : "target-sfml-network-Debug-c583cc9acb3e96d404b6.json",
+					"jsonFile" : "target-sfml-network-Debug-0c02bd9438d5875d4f47.json",
 					"name" : "sfml-network",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "sfml-system::@8cb1db2982443611e568",
-					"jsonFile" : "target-sfml-system-Debug-d40f8cb39e99db920538.json",
+					"jsonFile" : "target-sfml-system-Debug-2ac40d8cba233c059e91.json",
 					"name" : "sfml-system",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "sfml-window::@5730451e331e3690ae65",
-					"jsonFile" : "target-sfml-window-Debug-53ab32e249293bcd9661.json",
+					"jsonFile" : "target-sfml-window-Debug-f46bcd46f35c2e7d5880.json",
 					"name" : "sfml-window",
 					"projectIndex" : 1
 				}
@@ -257,8 +257,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/out/build/x64-debug",
-		"source" : "C:/daten_neu/daten_NC/00_projekte/PR-aki"
+		"build" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project/out/build/x64-debug",
+		"source" : "C:/daten_neu/daten_NC/00_projekte/PR-aki/project"
 	},
 	"version" : 
 	{

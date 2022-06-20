@@ -155,7 +155,7 @@ rule CXX_STATIC_LIBRARY_LINKER__sfml-audio_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\daten_neu\daten_NC\00_projekte\PR-aki -BC:\daten_neu\daten_NC\00_projekte\PR-aki\out\build\x64-debug
+  command = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\daten_neu\daten_NC\00_projekte\PR-aki\project -BC:\daten_neu\daten_NC\00_projekte\PR-aki\project\out\build\x64-debug
   description = Re-running CMake...
   generator = 1
 
